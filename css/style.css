@@ -14,11 +14,13 @@ body{font-family: sans-serif;background-color: #888;-webkit-font-smoothing: anti
 .navbar-brand img{height: 4rem;padding-left: 3rem; padding: 5px; padding-left: 20px; padding-right: 3rem; padding-right: 10px;}
 .navbar-nav{margin-right: 3rem;}
 .navbar-nav li{padding: 0 1rem;}
-.navbar-nav li{padding: 0 1rem;}
 .navbar-nav .nav-item .nav-link{color: #fff !important; font-weight: 600; float: right; text-align: left;}
 .navbar-nav .nav-item .nav-link:hover{color: rgb(210, 196, 237) !important;}
 .fa-bars{color: #fff !important; font-size: 25px !important;}
 .navbar-toggler{outline: none !important;}
+
+
+
 /* --------- Banner ---------- */
 .banner{background:  url(bg.jpg) #696aa7;background-size: cover; background-position: right; background-repeat: no-repeat; color: #fff; padding-top: 5%;}
 .promo-title{font-size: 3rem; font-weight: 600;}
@@ -187,7 +189,7 @@ font-size: x-large;}
 .testimonials img{height: 60px;width: 60px;border-radius: 50%; margin: 0 10px;}
 .user-details{display: inline-block;font-size: 12px;}
 .feedback{font-style: italic;}
-#testimonials p{min-height: 220px;}
+#testimonials p{min-height: 150px;}
 #testimonials .btn-primary{
   font-size: x-large;
   box-shadow: none;
