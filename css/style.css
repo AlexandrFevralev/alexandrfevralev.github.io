@@ -22,8 +22,8 @@ body{font-family: sans-serif;background-color: #888;-webkit-font-smoothing: anti
 
 
 /* --------- Banner ---------- */
-.banner{background:  url(bg.jpg) #696aa7;background-size: cover; background-position: right; background-repeat: no-repeat; color: #fff; padding-top: 5%;}
-.promo-title{font-size: 3rem; font-weight: 600;}
+.banner{background:  url(bg.png) #696aa7;background-size: cover; background-position: right; background-repeat: no-repeat; color: #fff; padding-top: 5%;}
+.promo-title{font-size: 3rem; font-weight: 550;}
 .join-title{font-size: 1.44rem; color: #fff}
 .link-play{text-decoration: none;}
 .link-play:hover{color: #58f0ff;text-decoration: none!important;}
@@ -129,7 +129,10 @@ font-size: x-large;}
    min-height: 650px;
   }
 #usp img{width: 275px;}
-#usp p{margin: 60px 0;}
+#usp p{
+  margin: 60px 0;
+   text-align: left;
+  }
 #usp .btn-primary{
   font-size: x-large;
   box-shadow: none;
@@ -150,7 +153,10 @@ font-size: x-large;}
     min-height: 650px;
   }
 #ekz img{width: 275px;}
-#ekz p{margin: 60px 0;}
+#ekz p{
+  margin: 60px 0;
+  text-align: left;
+}
 #ekz .btn-primary{
   font-size: x-large;
   box-shadow: none;
@@ -171,7 +177,10 @@ font-size: x-large;}
     min-height: 650px;
   }
 #olimp img{width: 275px;}
-#olimp p{margin: 60px 0;}
+#olimp p{
+  margin: 60px 0;
+  text-align: left;
+}
 #olimp .btn-primary{
   font-size: x-large;
   box-shadow: none;
@@ -186,7 +195,7 @@ font-size: x-large;}
 /* ------- Testimonials Section -----*/
 #testimonials{margin: 100px 0; }
 .testimonials{border-left: 3px solid #1723b1; margin: 50px 0; }
-.testimonials img{height: 60px;width: 60px;border-radius: 50%; margin: 0 10px;}
+#testimonials img{height: 150px;  border-radius: 10%; margin: 0 10px;}
 .user-details{display: inline-block;font-size: 12px;}
 .feedback{font-style: italic;}
 #testimonials p{min-height: 150px;}
