@@ -237,7 +237,7 @@ font-size: x-large;}
 .footer-box .btn-primary:hover{transform: scale(1.2); color: #fff;}
 /*-------- Social Media icons ---------- */
 #social p{font-weight: 600; font-size: 16px; margin-top: 20px;}
-#social .social-icons .svg-icons img{width: 50px;transition: transform .7s;margin-right: 1.2rem;}
+#social .social-icons .svg-icons img{ width: 50px;transition: transform .7s;margin-right: 1.2rem;}
 #social .social-icons .svg-icons img:hover{transform: scale(1.2);}
 .copyright{padding-top: 2%; font-size: 15px;}
 .copyright a{text-decoration: none;color: #fff;}
