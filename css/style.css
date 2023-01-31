@@ -97,7 +97,7 @@ body{font-family: sans-serif;background-color: #888;-webkit-font-smoothing: anti
 font-size: x-large;}
 .prep img{width: 50px; transform: translate(0px, -20px);}
 .predm{
-  padding-left: 15px;
+  padding-left: 20px;
   text-align: left;
   background-color: #6667ab; 
   border: 4px solid; border-radius: 50px;
